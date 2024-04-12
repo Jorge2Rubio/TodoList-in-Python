@@ -1,1 +1,2 @@
-# TodoList-in-Python
+Todo List in Python.
+
